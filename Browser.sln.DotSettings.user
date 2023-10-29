@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b7aa4f39_002D024e_002D4e4a_002D9668_002D9c056f09c115/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.HttpConnectionTest.TestConnection200&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.HttpConnectionTest.TestConnectionTitle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.FileManagerTest.WriteHomepageTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.FileManagerTest.WriteHistoryTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.FileManagerTest.WriteFavouriteTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.FileManagerTest.WriteBulkDownloadTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.HttpConnectionTest.TestConnection404&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.HttpConnectionTest.TestConnection403&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.HttpConnectionTest.TestConnection400&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.FileManagerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.HttpConnectionTest.TestConnectionTimeOut&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::65F85C56-787A-4651-BCC1-6BF613733D31::.NETFramework,Version=v4.7.2::Browser.Testing.HttpConnectionTest.TestConnectionInvalidURL&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

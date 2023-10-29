@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfFavouriteUrl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FavouriteUrl>
+    <Url>https://samsung.com</Url>
+    <Name>Samsung</Name>
+    <Favourite />
+  </FavouriteUrl>
+  <FavouriteUrl>
+    <Url>https://apple.com</Url>
+    <Name>Apple</Name>
+    <Favourite />
+  </FavouriteUrl>
+  <FavouriteUrl>
+    <Url>https://www.hw.ac.uk</Url>
+    <Name>HW</Name>
+    <Favourite />
+  </FavouriteUrl>
+  <FavouriteUrl>
+    <Url>https://httpstat.us/200</Url>
+    <Name>HTTPSat</Name>
+    <Favourite />
+  </FavouriteUrl>
+  <FavouriteUrl>
+    <Url>https://httpstat.us/404</Url>
+    <Name>Cheese</Name>
+    <Favourite />
+  </FavouriteUrl>
+</ArrayOfFavouriteUrl>

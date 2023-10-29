@@ -1,0 +1,163 @@
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.AddFavouriteForm.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.Browser.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.BulkDownloadAddUrl.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.BulkDownloadFilename.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.ChangeUrlForm.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.exe.manifest
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Browser.exe.manifest
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Browser.application
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.application
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\obj\Debug\Browser.csproj.CopyComplete
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Browser.exe.manifest
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Browser.application
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.AddFavouriteForm.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.Browser.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.BulkDownloadAddUrl.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.BulkDownloadFilename.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.ChangeUrlForm.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.exe.manifest
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.application
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.csproj.CopyComplete
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\nunit.framework.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\nunit.framework.legacy.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Sandbox.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\System.Reactive.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\nunit.framework.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\nunit.framework.legacy.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\System.Reactive.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider\Browser\Browser\Browser\obj\Debug\Browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Browser.exe.manifest
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Browser.application
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\nunit.framework.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\nunit.framework.legacy.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Sandbox.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\System.Reactive.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\nunit.framework.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\nunit.framework.legacy.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\System.Reactive.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.AddFavouriteForm.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.Browser.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.BulkDownloadAddUrl.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.BulkDownloadFilename.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.ChangeUrlForm.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.exe.manifest
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.application
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.csproj.CopyComplete
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Images\back.jpg
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Images\cancel.png
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Images\forward.jpg
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Images\homepage.png
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Images\refresh.jpg
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Images\refresh.png
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Images\search.jpg
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1 Rider Copy\Browser\Browser\Browser\bin\Debug\Files\bulk.txt
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Files\bulk.txt
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Images\back.jpg
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Images\cancel.png
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Images\forward.jpg
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Images\homepage.png
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Images\refresh.jpg
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Images\refresh.png
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Images\search.jpg
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\nunit.framework.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\nunit.framework.legacy.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Sandbox.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\System.Reactive.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\nunit.framework.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\nunit.framework.legacy.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\System.Reactive.xml
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\hasan\OneDrive\University\New Course\Year 4\Semester 1\Industrial Proramming\CW1\Browser\Browser\Browser\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll

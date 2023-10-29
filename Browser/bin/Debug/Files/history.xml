@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>https://google.co.uk</string>
+  <string>https://samsung.com</string>
+  <string>https://apple.com</string>
+  <string>https://samsung.com</string>
+  <string>https://www.hw.ac.uk</string>
+  <string>https://apple.com</string>
+  <string>https://samsung.com</string>
+  <string>https://google.com</string>
+  <string>https://samsung.com</string>
+  <string>https://apple.com</string>
+  <string>https://google.co.uk</string>
+  <string>https://samsung.com</string>
+  <string>https://www.hw.ac.uk</string>
+  <string>https://www.hw.ac.uk</string>
+  <string>https://google.com</string>
+  <string>https://www.hw.ac.uk</string>
+  <string>https://www.hw.ac.uk</string>
+  <string>https://samsung.com</string>
+</ArrayOfString>
