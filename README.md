@@ -12,7 +12,15 @@ Other features include:
 * a working history
   * <img width="188" alt="image" src="https://github.com/user-attachments/assets/7698f4a5-8144-4345-b9f1-23ebc2778e0d" />
 * downloading feature that displays the websites status code, HTML file size and its URL (Code: 200, FileSize: 50913 bytes, URL: https://google.com) in a txt file. Allows multiple sites to be downloaded. 
-* standard browser shortcuts such as ctrl + H to go to the home page or accessibility shortcuts when pressing tab for menu items. 
+* standard browser shortcuts such as ctrl + H to go to the home page or accessibility shortcuts when pressing tab for menu items.
+* customising the homepage url.
+  * <img width="598" alt="image" src="https://github.com/user-attachments/assets/5bef2bf1-7e0a-4ede-ae8a-0e6eb1ee219a" />
+
+URL's checks are also in place to make sure valid sites are being searched for. 
+
+A demo video showcasing the working application is also avaliable in the main branch labeled 'demo.mp4'. 
+
+
 
 
 
