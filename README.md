@@ -8,11 +8,11 @@ For example https://google.com:
 
 Other features include: 
 * adding favourite sites to the favourites tab
-  * <img width="319" alt="image" src="https://github.com/user-attachments/assets/1b6662f5-8b44-4fa8-8863-50bedfedd205" />
-* a working history 
+  * <img width="269" alt="image" src="https://github.com/user-attachments/assets/d19f1698-6c44-41e3-a8a9-39511cd70084" />
+* a working history
+  * <img width="188" alt="image" src="https://github.com/user-attachments/assets/7698f4a5-8144-4345-b9f1-23ebc2778e0d" />
 * downloading feature that displays the websites status code, HTML file size and its URL (Code: 200, FileSize: 50913 bytes, URL: https://google.com) in a txt file. Allows multiple sites to be downloaded. 
 * standard browser shortcuts such as ctrl + H to go to the home page or accessibility shortcuts when pressing tab for menu items. 
-* 
 
 
 
